@@ -1,0 +1,20 @@
+{
+  "name": "promise_require",
+  "version": "1.0.0",
+  "description": "a promise-style of commonjs'require",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://ywwhack.com/promise-require"
+  },
+  "keywords": [
+    "promise",
+    "commonjs",
+    "require"
+  ],
+  "author": "ywwhack",
+  "license": "ISC"
+}
